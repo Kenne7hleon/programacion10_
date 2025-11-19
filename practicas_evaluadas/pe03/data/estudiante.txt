@@ -1,0 +1,4 @@
+# Archivo de datos del estudiante
+NOMBRE=Nombre completo
+CORREO=Correo
+MATERIAS=Curso1, Curso2, Curso3
