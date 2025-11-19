@@ -1,4 +1,4 @@
 # Archivo de datos del estudiante
-NOMBRE=Nombre completo
-CORREO=Correo
-MATERIAS=Curso1, Curso2, Curso3
+NOMBRE=Kenneth León V
+CORREO=kennethleonvillarreal218@gmail.com
+MATERIAS=Fisica,Quimica,programacion
